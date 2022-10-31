@@ -1,2 +1,2 @@
 # CloneUsingHTML
-This is  a clone app made by  me using HTML CSS and JS
+This is  a clone web interface made by  me using HTML CSS and JS
